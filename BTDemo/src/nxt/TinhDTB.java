@@ -18,5 +18,6 @@ public class TinhDTB {
 		double c = 8.5;	
 		double dtb = (a * 2 + b + c)/4;
 		System.out.printf("Điểm trung bình: %.2f\n", dtb);
+		
 	}
 }
