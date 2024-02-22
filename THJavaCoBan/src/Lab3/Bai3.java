@@ -22,6 +22,7 @@ public class Bai3 {
 		// Nhập mảng 
 		for (int i = 0; i < n; i++) {
             		System.out.print("Nhập phần tử thứ " + (i + 1) + ": ");
+            			A[i] = sc.nextInt();
 		}
 		
 		// Sắp xếp mảng
